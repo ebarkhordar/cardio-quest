@@ -1,5 +1,9 @@
 ## Running the Application
 
+0. **Go to app directory**:
+   ```bash
+   cd app/
+   ```
 1. **Start the server**:
    ```bash
    flask run --host=0.0.0.0
